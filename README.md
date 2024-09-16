@@ -1,4 +1,4 @@
-### PDF Email Domain Extracto
+### PDF Email Domain Extractor
 A Python-based GUI tool that extracts and counts email domains from PDF files, helping identify potentially private email domains for redaction in eDiscovery or document review processes.
 
 ### Features:
